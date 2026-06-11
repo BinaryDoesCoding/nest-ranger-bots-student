@@ -155,33 +155,6 @@ Do not worry if everything does not make sense right away. Robotics takes practi
   </tbody>
 </table>
 
-## What You Will Learn
-
-In this workshop, you will explore how robots:
-
-* move using motors
-* use sensors to understand the world
-* follow instructions from code
-* make simple decisions
-* fail, get tested, and improve
-* solve challenges through teamwork
-
-Robotics is not only about coding. It also includes mechanical design, electronics, sensors, logic, creativity, and problem-solving.
-
-## Coding Resources
-
-Some activities may use block coding. Other activities may use C/C++ starter code.
-
-You are not expected to write everything from scratch. Starter files and examples will help you test robot movement, sensors, logic, and challenges.
-
-When using code, remember:
-
-* read the comments first
-* change only the parts your instructor tells you to change
-* test one change at a time
-* write down what happened
-* ask for help when the robot does something unexpected
-
 ## Folder Guide
 
 The exact folders may change as the workshop grows, but this repository may include:
