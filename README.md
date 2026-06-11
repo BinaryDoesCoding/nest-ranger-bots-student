@@ -68,8 +68,6 @@ Do not worry if everything does not make sense right away. Robotics takes practi
       <td>Movement accuracy, path planning, testing, and observation.</td>
       <td>Navigate a simple maze or path. Returning students improve accuracy or attempt harder paths.</td>
     </tr>
-
-```
 <tr>
   <th colspan="4">Module 2: Sensors and Robot Data</th>
 </tr>
@@ -158,7 +156,6 @@ Do not worry if everything does not make sense right away. Robotics takes practi
   <td>Movement, sensing, logic, debugging, and teamwork come together in one mission.</td>
   <td>Guided mission for new students. Returning students add constraints, accuracy goals, or extra behaviors.</td>
 </tr>
-```
 
   </tbody>
 </table>
