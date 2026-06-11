@@ -4,13 +4,12 @@ Welcome to the Ranger Bots robotics workshop!
 
 This repository is a student resource hub for the New England Sci-Tech Ranger Bots workshop series. It includes the workshop syllabus, module slides, notes, videos, robot activities, coding resources, and challenge instructions.
 
-This workshop is designed for students in grades 4-10. You do not need to be an expert in robotics or coding to begin. The goal is to learn by trying, testing, fixing mistakes, and improving your robot.
+This workshop is designed for beginners. You do not need to be an expert in robotics or coding to begin. The goal is to learn by trying, testing, fixing mistakes, and improving your robot.
 
 ## What This Repository Is For
 
 Use this repository to find materials for the workshop, including:
 
-* workshop syllabus
 * module slides
 * activity notes
 * robot setup help
@@ -21,17 +20,6 @@ Use this repository to find materials for the workshop, including:
 * extra resources for students who want to go further
 
 Your instructor will tell you which file or folder to open during each session.
-
-## Start Here
-
-If you are new, start with:
-
-1. the workshop syllabus
-2. the folder for your current module
-3. the activity instructions for the day
-4. the starter code or block-code example your instructor gives you
-
-Do not worry if everything does not make sense right away. Robotics takes practice, and your instructor will guide you.
 
 ## Projected Modular Schedule
 
