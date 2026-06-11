@@ -159,7 +159,6 @@ Do not worry if everything does not make sense right away. Robotics takes practi
 
 The exact folders may change as the workshop grows, but this repository may include:
 
-* `syllabus/` - workshop syllabus and schedule
 * `slides/` - module PowerPoints or PDFs
 * `notes/` - helpful notes for each activity
 * `code/` - C/C++ starter code and examples
